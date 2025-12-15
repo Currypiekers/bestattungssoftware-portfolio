@@ -9,7 +9,10 @@ Eine vollständige **Multi-Tenant SaaS-Lösung** für Bestattungsunternehmen zur
 ## 📸 Screenshots & Demo
 
 ### Dashboard & Übersicht
-![Dashboard](screenshots/dashboard.png)
+
+
+![Dashboard]
+<img width="1658" height="927" alt="Bildschirmfoto 2025-12-15 um 09 05 40" src="https://github.com/user-attachments/assets/ff261c3a-9b6c-4220-9321-39f59ffeeeba" />
 *Haupt-Dashboard mit Analytics und Quick-Actions*
 
 ### Sterbefall-Verwaltung
