@@ -16,26 +16,23 @@ Eine vollständige **Multi-Tenant SaaS-Lösung** für Bestattungsunternehmen zur
 *Haupt-Dashboard mit Analytics und Quick-Actions*
 
 ### Sterbefall-Verwaltung
-![Sterbefall-Details](screenshots/sterbefall-detail.png)
+![Sterbefall-Details]<img width="1676" height="925" alt="Bildschirmfoto 2025-12-15 um 10 02 58" src="https://github.com/user-attachments/assets/125a3acb-e29a-4166-8faf-542fa93a5da0" />
 *Detailansicht eines Sterbefalls mit allen relevanten Informationen*
 
-### Dynamisches Dokumenten-System
-![PDF-Editor](screenshots/pdf-editor.png)
-*Drag-&-Drop-Editor für PDF-Vorlagen mit Platzhaltern*
-
 ### Rechnungsverwaltung
-![Rechnungen](screenshots/rechnung-list.png)
+![Rechnungen]<img width="1667" height="928" alt="Bildschirmfoto 2025-12-15 um 10 09 15" src="https://github.com/user-attachments/assets/cd617784-b857-43e6-bf12-e4bbc9e441c7" />
 *Übersicht aller Rechnungen mit Filter- und Suchfunktion*
 
-![Rechnung erstellen](screenshots/rechnung-create.png)
-*Formular zur Erstellung einer neuen Rechnung*
 
 ### Kalender & Termine
-![Kalender](screenshots/kalender.png)
+![Kalender]
+<img width="1638" height="926" alt="Bildschirmfoto 2025-12-15 um 10 10 41" src="https://github.com/user-attachments/assets/3df103ca-b5b3-4d6b-b513-35aeceaf8796" />
+<img width="1662" height="906" alt="Bildschirmfoto 2025-12-15 um 09 07 08" src="https://github.com/user-attachments/assets/d663f7ae-6527-40c2-b4e7-27c74401b1e1" />
 *FullCalendar-Integration mit Terminen und Aufgaben*
 
 ### Produktkatalog
-![Produkte](screenshots/produkte.png)
+![Produkte]
+<img width="1662" height="904" alt="Bildschirmfoto 2025-12-15 um 10 13 08" src="https://github.com/user-attachments/assets/aa0f7ad3-bccf-493c-9704-d03a70596d67" />
 *Produktverwaltung mit Lagerhaltung*
 
 ---
